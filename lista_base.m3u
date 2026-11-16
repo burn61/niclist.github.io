@@ -143,7 +143,7 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/29-la7cinema.png", LA7 Cinema
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 
 #EXTINF:-1 tvg-chno="30" tvg-id="La.5.it" tvg-name="La5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/30-la5hd.png", La5 HD
 #EXTSIZE: Medium
