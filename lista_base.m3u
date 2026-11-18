@@ -75,10 +75,10 @@ https://streamcdnm9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JW
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
 
-#EXTINF:-1 tvg-chno="16" tvg-id="TRM.h24.it" tvg-name="TRM H24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/16-trmh24.png", TRM H24
+#EXTINF:-1 tvg-chno="16" tvg-id="TRM.h24.it" tvg-name="Rete55" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/19/Rete_55.png?utm_source=it.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled", Rete55
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://www.youtube.com/watch?v=kbgDmdLMoPQ
+https://live1.giocabet.tv/stream/6/index.m3u8
 
 #EXTINF:-1 tvg-chno="17" tvg-name="Telebari" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/17-telebari.png", Telebari
 #EXTSIZE: Medium
