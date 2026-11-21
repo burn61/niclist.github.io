@@ -90,10 +90,10 @@ https://w1.mediastreaming.it/telebari/livestream/manifest.mpd
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live2.telesveva.com/hls/svevahd.m3u8
 
-#EXTINF:-1 tvg-chno="19" tvg-name="Tele Dehon" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/19-teledehon.png", Tele Dehon
+#EXTINF:-1 tvg-chno="19" tvg-name="Tele Dehon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Telelombardia_2026.jpg/revision/latest/scale-to-width-down/1000?cb=20261015144647", Telelombardia
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/chunklist_w1250153136_b3000000_slen.m3u8
+https://sportitaliaamd.akamaized.net/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/index.m3u8?hdnts=exp=1795454933~acl=/live/Telelombardia/hls/1CCCD0BCA2F9C979BC0632230F8E31EAEA41562B/*~hmac=03fe9dd2dc7197621a38784ba62bfbcf760fe52c3a0e4852c09a80947c304d07
 
 #EXTINF:-1 tvg-chno="20" tvg-id="20.it" tvg-name="20Mediaset HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/20-20hd.png", 20Mediaset HD
 #EXTSIZE: Medium
